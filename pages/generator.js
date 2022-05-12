@@ -81,6 +81,9 @@ export default function GeneratorPage() {
                       <p className="mt-2 text-base leading-6 text-gray-500">
                         Generate beautiful HTML documentation that's easy to share with your team and customers. Markdown docs that will seat along with your code? Perfect!
                       </p>
+                      <p className="mt-2 text-base leading-6 text-gray-500">
+                        explanation about modelina supporting TypeScript and jdjdjdjdjdjd
+                      </p>
                     </div>
                   </div>
                 </li>
